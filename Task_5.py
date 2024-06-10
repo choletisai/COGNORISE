@@ -1,6 +1,4 @@
-from beautifultable import BeautifulTable
-
-class ContactBook:
+class ContactBook:
     def __init__(self):
         self.__data = {}
     
